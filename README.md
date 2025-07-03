@@ -1,1 +1,1 @@
-# Disease-prediction-model
+A disease prediction model in machine learning is used to predict the presence or likelihood of a disease in an individual based on clinical, demographic, genetic, or lifestyle data. These models help in early diagnosis, treatment planning, and preventive care, improving healthcare outcomes.# Disease-prediction-model
